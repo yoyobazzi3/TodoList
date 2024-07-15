@@ -1,0 +1,23 @@
+/* styles.css */
+.container {
+    background-color: bisque; /* Sets the background color */
+    padding: 20px; /* Adds padding inside the container */
+    border-radius: 5px; /* Rounds the corners */
+    margin: 20px auto; /* Centers the container and adds vertical margin */
+    max-width: 1200px; /* Limits the container width */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+#txt1{
+    height: 65px;
+    width:50%;
+    border-radius: 20px;
+}
+
+
+#btn1 {
+    position: relative;
+    right: 90px; 
+    /* top: 10px; */
+    border-radius: 20px;
+}
